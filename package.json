@@ -1,0 +1,17 @@
+{
+  "name": "graphql-crash-course-laith-academy-youtube",
+  "version": "0.1.0",
+  "description": "This project was created following a YouTube GraphQL crash course video, for learning and practice purposes.",
+  "main": "index.js",
+  "author": "Jean Barbosa",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon src/index"
+  },
+  "dependencies": {
+    "apollo-server": "^3.8.1",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.16"
+  }
+}
